@@ -13,10 +13,12 @@ The directory structure is as follows:-
 |     |-- results.csv
 ```
 
-## To run the project use simple command
+### To run the project use simple command
 ```
 	$ python3 WorkingOnCaptchasForJEEResults.py appliedStudentsList.csv
 ```
 
-## Deatiled discussion can be found at https://medium.com/@lih.verma/cracking-alpha-numeric-captcha-via-image-processing-and-ocr-make-life-easier-and-automatic-d89fe7becd36
+![Input Data in a csv having student's JEE Roll Number and Date Of Birth](/imagesToGit/inputCSV.jpg)
+
+Deatiled discussion can be found at https://medium.com/@lih.verma/cracking-alpha-numeric-captcha-via-image-processing-and-ocr-make-life-easier-and-automatic-d89fe7becd36
 
