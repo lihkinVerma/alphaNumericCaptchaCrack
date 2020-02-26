@@ -17,8 +17,7 @@ The directory structure is as follows:-
 ```
 	$ python3 WorkingOnCaptchasForJEEResults.py appliedStudentsList.csv
 ```
-<img src="/imagesToGit/inputCSV.jpg" alt="My cool logo"/>
-![Input Data in a csv having student's JEE Roll Number and Date Of Birth](/imagesToGit/inputCSV.jpg?raw=true "Title")
+![Input Data in a csv having student's JEE Roll Number and Date Of Birth](https://cdn.rawgit.com/lihkinVerma/alphaNumericCaptchaCrack/imagesToGit/inputCSV.jpg)
 
 Deatiled discussion can be found at https://medium.com/@lih.verma/cracking-alpha-numeric-captcha-via-image-processing-and-ocr-make-life-easier-and-automatic-d89fe7becd36
 
