@@ -26,6 +26,11 @@ The directory structure is as follows:-
 ![craking Fig 1](https://github.com/lihkinVerma/alphaNumericCaptchaCrack/blob/master/imagesForGit/crackingCaptchEx1.jpg)
 ![craking Fig 2](https://github.com/lihkinVerma/alphaNumericCaptchaCrack/blob/master/imagesForGit/crackingCaptchEx2.jpg)
 
+2.1 A cracked Captcha		![captch1](https://github.com/lihkinVerma/alphaNumericCaptchaCrack/blob/master/imagesForGit/634NL4.png)
+Predicted alphaNumeric = "634NL4"
+2.2 Another Cracked Captcha 	![captcha2](https://github.com/lihkinVerma/alphaNumericCaptchaCrack/blob/master/imagesForGit/BV8948.png) 
+Predicted alphaNumeric = "BV8948"
+
 3. Capturing Internal Deatils
 ![internalDeatils](https://github.com/lihkinVerma/alphaNumericCaptchaCrack/blob/master/imagesForGit/internalDeatilsCaptured.jpg)
 
