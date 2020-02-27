@@ -23,14 +23,19 @@ The directory structure is as follows:-
 ![Input Data in a csv having student's JEE Roll Number and Date Of Birth](https://github.com/lihkinVerma/alphaNumericCaptchaCrack/blob/master/imagesForGit/inputCSV.png)
 <br /> 
 2. Filling internal details along with Captcha cracking using OCR and Selenium<br /> 
-![craking Fig 1](https://github.com/lihkinVerma/alphaNumericCaptchaCrack/blob/master/imagesForGit/crackingCaptchEx1.jpg)<br /> 
+![craking Fig 1](https://github.com/lihkinVerma/alphaNumericCaptchaCrack/blob/master/imagesForGit/crackingCaptchEx1.jpg) 
 ![craking Fig 2](https://github.com/lihkinVerma/alphaNumericCaptchaCrack/blob/master/imagesForGit/crackingCaptchEx2.jpg)
-<br /> 
-2.1 A cracked Captcha		![captch1](https://github.com/lihkinVerma/alphaNumericCaptchaCrack/blob/master/imagesForGit/634NL4.png) <br />
+
+2.1 A cracked Captcha		![captch1](https://github.com/lihkinVerma/alphaNumericCaptchaCrack/blob/master/imagesForGit/634NL4.png)
+
 Predicted alphaNumeric = "634NL4"
+
 <br /> 
-2.2 Another Cracked Captcha 	![captcha2](https://github.com/lihkinVerma/alphaNumericCaptchaCrack/blob/master/imagesForGit/BV8948.png) <br/>
-Predicted alphaNumeric = "BV8948" 
+
+2.2 Another Cracked Captcha 	![captcha2](https://github.com/lihkinVerma/alphaNumericCaptchaCrack/blob/master/imagesForGit/BV8948.png)
+
+Predicted alphaNumeric = "BV8948"
+
 <br /> 
 
 3. Capturing Internal Deatils<br /> 
