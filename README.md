@@ -19,10 +19,10 @@ The directory structure is as follows:-
 ```
 
 ### Snippets to get enthu
-1. Input Data in form of csv having student's JEE Roll Number and Date Of Birth<br /> 
+1. Input Data in form of csv having student's JEE Roll Number and Date Of Birth 
 ![Input Data in a csv having student's JEE Roll Number and Date Of Birth](https://github.com/lihkinVerma/alphaNumericCaptchaCrack/blob/master/imagesForGit/inputCSV.png)
-<br /> 
-2. Filling internal details along with Captcha cracking using OCR and Selenium<br /> 
+
+2. Filling internal details along with Captcha cracking using OCR and Selenium 
 ![craking Fig 1](https://github.com/lihkinVerma/alphaNumericCaptchaCrack/blob/master/imagesForGit/crackingCaptchEx1.jpg) 
 ![craking Fig 2](https://github.com/lihkinVerma/alphaNumericCaptchaCrack/blob/master/imagesForGit/crackingCaptchEx2.jpg)
 
